@@ -11,7 +11,7 @@ In this application, you can convert the temperature from Celsius to Fahrenheit 
 |HTML|CSS|Javascript|
 |---|---|---|
 
-![preview img](/preview1.png)
+![preview img](/preview.png)
 
 
 
